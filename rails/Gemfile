@@ -9,7 +9,7 @@ gem 'rails', '5.2.4.3'
 
 gem 'pg', '~> 0.18'
 
-gem 'puma', '3.8.2'
+gem 'puma', '3.12.6'
 # https://github.com/puma/puma/issues/1308
 
 gem 'httparty'
