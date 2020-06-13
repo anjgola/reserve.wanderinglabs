@@ -33,7 +33,7 @@ gem 'exception_notification'
 gem 'slack-notifier'
 
 gem "mechanize"
-gem 'nokogiri', '~> 1.8.1'
+gem 'nokogiri', '~> 1.10.8'
 gem 'paypal-sdk-rest'
 
 gem 'awesome_print', github: 'awesome-print/awesome_print', branch: 'master'
